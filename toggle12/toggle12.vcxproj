@@ -140,7 +140,7 @@
     <Image Include="toggle12.ico" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="emit_x.cpp" />
+    <ClCompile Include="toggle-x.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
